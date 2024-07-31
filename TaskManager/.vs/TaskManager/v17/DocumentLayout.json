@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.application\\usecases\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.application\\usecases\\tasks\\getbyid\\gettaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\getbyid\\gettaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.communication\\response\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\response\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\request\\requestcreatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\request\\requestcreatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.application\\usecases\\tasks\\getall\\getalltasksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\getall\\getalltasksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.communication\\response\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\response\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\temp\\ws - visualstudio\\rocketseat c#\\taskmanager\\taskmanager.communication\\response\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\response\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\response\\responsecreatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\response\\responsecreatetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\response\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\response\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBB73A-F6F8-456F-B803-9C8F181FA63F}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08E48F06-8A1D-4D65-9647-852FE5CD9D9F}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\taskmanager.communication\\taskmanager.communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{988E6CCE-8AE7-44CA-8F15-37A45C5363A9}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\taskmanager.communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteTaskByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:07:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTaskById.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\GetById\\GetTaskById.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\GetById\\GetTaskById.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\GetById\\GetTaskById.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\GetById\\GetTaskById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:41:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseTaskJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseTaskJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Response\\ResponseTaskJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseTaskJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Response\\ResponseTaskJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:06:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllTasksUseCase.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\GetAll\\GetAllTasksUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\GetAll\\GetAllTasksUseCase.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\GetAll\\GetAllTasksUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\GetAll\\GetAllTasksUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:36:26.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseAllTaskJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseAllTaskJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Response\\ResponseAllTaskJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseAllTaskJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Response\\ResponseAllTaskJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:31:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseShortTaskJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseShortTaskJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Response\\ResponseShortTaskJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseShortTaskJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Response\\ResponseShortTaskJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:59:25.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManager.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:22:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseErrorJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseErrorJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Response\\ResponseErrorJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseErrorJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Response\\ResponseErrorJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:34:26.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:46:38.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestCreateTaskJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Request\\RequestCreateTaskJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Request\\RequestCreateTaskJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Request\\RequestCreateTaskJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Request\\RequestCreateTaskJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:25:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:08:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Program.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeToolTip": "TaskManager.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:39:26.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseCreateTaskJson.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseCreateTaskJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Response\\ResponseCreateTaskJson.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Response\\ResponseCreateTaskJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Response\\ResponseCreateTaskJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:37:51.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskManager.Api",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\TaskManager.Api.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Api\\TaskManager.Api.csproj",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Api\\TaskManager.Api.csproj",
+              "RelativeToolTip": "TaskManager.Api\\TaskManager.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:36:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Enums\\Status.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Enums\\Status.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Enums\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:35:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\Enums\\Priority.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Enums\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:33:56.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskManager.Communication",
+              "DocumentMoniker": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\TaskManager.Communication.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\TaskManager.Communication.csproj",
+              "ToolTip": "C:\\Temp\\WS - VisualStudio\\RocketSeat C#\\TaskManager\\TaskManager.Communication\\TaskManager.Communication.csproj",
+              "RelativeToolTip": "TaskManager.Communication\\TaskManager.Communication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:25:13.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
